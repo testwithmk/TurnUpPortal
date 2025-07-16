@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mpkau\\OneDrive\\Documents\\Industry Connect\\TurnUpPortal\\TurnUpPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA6E413-0F51-4DFC-B36E-339FB29D0652}|TurnUpPortal\\TurnUpPortal.csproj|c:\\users\\mpkau\\onedrive\\documents\\industry connect\\turnupportal\\turnupportal\\turnupportal\\pages\\tmpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA6E413-0F51-4DFC-B36E-339FB29D0652}|TurnUpPortal\\TurnUpPortal.csproj|solutionrelative:turnupportal\\pages\\tmpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA6E413-0F51-4DFC-B36E-339FB29D0652}|TurnUpPortal\\TurnUpPortal.csproj|c:\\users\\mpkau\\onedrive\\documents\\industry connect\\turnupportal\\turnupportal\\turnupportal\\utilities\\waitutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA6E413-0F51-4DFC-B36E-339FB29D0652}|TurnUpPortal\\TurnUpPortal.csproj|solutionrelative:turnupportal\\utilities\\waitutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA6E413-0F51-4DFC-B36E-339FB29D0652}|TurnUpPortal\\TurnUpPortal.csproj|c:\\users\\mpkau\\onedrive\\documents\\industry connect\\turnupportal\\turnupportal\\turnupportal\\tests\\tm_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA6E413-0F51-4DFC-B36E-339FB29D0652}|TurnUpPortal\\TurnUpPortal.csproj|solutionrelative:turnupportal\\tests\\tm_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA6E413-0F51-4DFC-B36E-339FB29D0652}|TurnUpPortal\\TurnUpPortal.csproj|c:\\users\\mpkau\\onedrive\\documents\\industry connect\\turnupportal\\turnupportal\\turnupportal\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA6E413-0F51-4DFC-B36E-339FB29D0652}|TurnUpPortal\\TurnUpPortal.csproj|solutionrelative:turnupportal\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaitUtil.cs",
+              "DocumentMoniker": "C:\\Users\\mpkau\\OneDrive\\Documents\\Industry Connect\\TurnUpPortal\\TurnUpPortal\\TurnUpPortal\\Utilities\\WaitUtil.cs",
+              "RelativeDocumentMoniker": "TurnUpPortal\\Utilities\\WaitUtil.cs",
+              "ToolTip": "C:\\Users\\mpkau\\OneDrive\\Documents\\Industry Connect\\TurnUpPortal\\TurnUpPortal\\TurnUpPortal\\Utilities\\WaitUtil.cs",
+              "RelativeToolTip": "TurnUpPortal\\Utilities\\WaitUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:22:13.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\mpkau\\OneDrive\\Documents\\Industry Connect\\TurnUpPortal\\TurnUpPortal\\TurnUpPortal\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "TurnUpPortal\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\mpkau\\OneDrive\\Documents\\Industry Connect\\TurnUpPortal\\TurnUpPortal\\TurnUpPortal\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "TurnUpPortal\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:18:14.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TM_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\mpkau\\OneDrive\\Documents\\Industry Connect\\TurnUpPortal\\TurnUpPortal\\TurnUpPortal\\Tests\\TM_Tests.cs",
+              "RelativeDocumentMoniker": "TurnUpPortal\\Tests\\TM_Tests.cs",
+              "ToolTip": "C:\\Users\\mpkau\\OneDrive\\Documents\\Industry Connect\\TurnUpPortal\\TurnUpPortal\\TurnUpPortal\\Tests\\TM_Tests.cs",
+              "RelativeToolTip": "TurnUpPortal\\Tests\\TM_Tests.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:16:10.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TMPage.cs",
+              "DocumentMoniker": "C:\\Users\\mpkau\\OneDrive\\Documents\\Industry Connect\\TurnUpPortal\\TurnUpPortal\\TurnUpPortal\\Pages\\TMPage.cs",
+              "RelativeDocumentMoniker": "TurnUpPortal\\Pages\\TMPage.cs",
+              "ToolTip": "C:\\Users\\mpkau\\OneDrive\\Documents\\Industry Connect\\TurnUpPortal\\TurnUpPortal\\TurnUpPortal\\Pages\\TMPage.cs",
+              "RelativeToolTip": "TurnUpPortal\\Pages\\TMPage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:10:38.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
